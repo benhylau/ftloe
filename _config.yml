@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: for the Love of Ev
 locale: en_US
-description: Describe your website here.
+description: spreading kindness in memory of evelyn lau
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://localhost:4000 #https://benhylau.github.io/ftloe/
 
 # Jekyll configuration
 
@@ -31,9 +31,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: ftLoE
+  avatar: bio-image.png
+  email: ben.hy.lau@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
