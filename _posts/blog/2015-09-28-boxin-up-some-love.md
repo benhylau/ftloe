@@ -3,6 +3,7 @@ layout: post
 title: "Boxin’ Up Some Love"
 modified:
 categories: blog
+comments: true
 excerpt:
 tags: []
 image:

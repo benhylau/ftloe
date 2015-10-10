@@ -3,6 +3,7 @@ layout: post
 title: "Shoeboxing Reloaded"
 modified:
 categories: upcoming
+comments: true
 excerpt:
 tags: []
 image:
