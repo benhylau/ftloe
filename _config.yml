@@ -5,8 +5,7 @@ locale: en_US
 description: spreading kindness in memory of evelyn lau
 logo: site-logo.png
 search: true
-# url: http://www.fortheloveofev.org
-url: https://benhylau.github.io/ftloe/
+url: http://www.fortheloveofev.org
 # url: http://localhost:4000
 
 # Jekyll configuration
