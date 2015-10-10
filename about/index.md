@@ -1,26 +1,20 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: for the Love of Ev
+excerpt: "About Evelyn Lau & the organization in her name."
+modified: 2015-07-12
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: about-header.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+For the Love of Ev was created in honour of Evelyn Lau, a lovely young lady from Toronto whose life was unfortunately cut short by cancer in 2014. This group organizes non-profit initiatives that benefit children and families in need. In remembrance of Ev's caring and loving spirit, and inspired by her work with children and non-profit involvements, we organize events throughout the year to bring friends and families together for meaningful causes.
 
-## So Simple Theme is all about:
+<figure>
+	<img src="/images/about-ev.jpg" alt="image">
+</figure>
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+According to Ev, living life to the fullest is to pursue your true passions and to share with others. Happiness comes from living free-spirited and feeling grateful. Never short of ideas, Ev spent her time inspiring young children as a teacher, cooking up delicious meals, and dreaming up all sorts of DIY ideas. You will find many personal stories, yummy recipes, and DIY kindness intiatives on [her personal blog][Ev's blog].
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+As Ev did in her life, for the Love of Ev will focus on intiatives empowering children and other simple acts of kindness that bring a smile to someone's life. We can change the world for the better.
 
-[^1]: Example: *domain.com/category-name/post-title*
+[Ev's blog]: https://prettyyummie.wordpress.com

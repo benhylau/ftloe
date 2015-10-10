@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "Blog posts about past events & musings of everyday life."
 search_omit: true
 ---
 
