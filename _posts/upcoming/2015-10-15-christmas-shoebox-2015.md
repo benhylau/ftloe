@@ -11,7 +11,7 @@ image:
 date: 2015-10-15
 ---
 
-Hello Everyone! It’s been awhile since we have had a get-together for Ev’s charity, *for the Love of Ev*. Since last year’s ‘Shoebox Drive’ was such a success, we have decided to go for Round 2!!  For those who couldn’t make it out last year, you can have the chance to participate and for those who did attend last year, we would love to see your faces again! There were also a few of you who made boxes but couldn't join the actual event. We would be happy to have you contribute again!
+Hello Everyone! It’s been awhile since we have had a get-together for Ev’s charity, *for the Love of Ev*. Since [last year’s ‘Shoebox Drive’][Boxin’ Up Some Love] was such a success, we have decided to go for Round 2!!  For those who couldn’t make it out last year, you can have the chance to participate and for those who did attend last year, we would love to see your faces again! There were also a few of you who made boxes but couldn't join the actual event. We would be happy to have you contribute again!
 
 **What is the Shoebox Drive?** It's easy. We will order the shoeboxes for everyone who wants to participate in this event.  Then we will come together and pack each shoebox with different items for kids (ages 5-9 years old). You can choose to pack a shoebox for a boy or girl OR why not for both? Each person is NOT limited to one shoebox. Find out more at the [official website][Samaritan’s Purse].
 
@@ -50,5 +50,6 @@ PLEASE PASS THE EVENT ALONG! Thank you :)
 
 Ev's Girls (June, Lily, Rachel & Rhoda)
 
+[Boxin’ Up Some Love]: {% post_url /blog/2015-09-28-boxin-up-some-love %}
 [Samaritan’s Purse]: http://www.samaritanspurse.ca/rss/operation-christmas-child/get-involved/operation-christmas-child-packing-your-shoe-boxes.aspx
 
