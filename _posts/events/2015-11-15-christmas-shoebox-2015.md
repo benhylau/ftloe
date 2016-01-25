@@ -2,13 +2,13 @@
 layout: post
 title: "Christmas Shoebox 2015"
 modified:
-categories: upcoming
+categories: events
 comments: true
 excerpt:
 tags: []
 image:
   feature:
-date: 2015-10-15
+date: 2015-11-15
 ---
 
 Hello Everyone! It’s been awhile since we have had a get-together for Ev’s charity, *for the Love of Ev*. Since [last year’s ‘Shoebox Drive’][Boxin’ Up Some Love] was such a success, we have decided to go for Round 2!!  For those who couldn’t make it out last year, you can have the chance to participate and for those who did attend last year, we would love to see your faces again! There were also a few of you who made boxes but couldn't join the actual event. We would be happy to have you contribute again!
