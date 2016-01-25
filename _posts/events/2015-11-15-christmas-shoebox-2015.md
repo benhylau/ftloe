@@ -23,7 +23,7 @@ Hello Everyone! It’s been awhile since we have had a get-together for Ev’s c
 
 **Our Ask:** Bring yourselves and bring your own shoebox items (we will also provide some items for you to place in your box, so don't worry!). Please refer below for item restrictions. Each box will cost a minimum of $7 to ship. We welcome other monetary donations.
 
-> **Date:** NOVEMBER 15, 2015 (Sunday)<br />**Time:** 1pm – 6pm (Light snacks and refreshments will be served)<br />**Location:** Condo Party Room in Building A, 376 Highway 7 East, Markham, ON
+> [**Date:** NOVEMBER 15, 2015 (Sunday)<br />**Time:** 1pm – 6pm (Light snacks and refreshments will be served)<br />**Location:** Condo Party Room in Building A, 376 Highway 7 East, Markham, ON][ical]
 
 **Here are some ideas for your shoebox:**
 
@@ -52,4 +52,4 @@ Ev's Girls (June, Lily, Rachel & Rhoda)
 
 [Boxin’ Up Some Love]: {% post_url /blog/2015-09-28-boxin-up-some-love %}
 [Samaritan’s Purse]: http://www.samaritanspurse.ca/rss/operation-christmas-child/get-involved/operation-christmas-child-packing-your-shoe-boxes.aspx
-
+[ical]: {{ site.url }}/ical/{{ page.path | replace: '_posts/events/', '' | replace: '.md', '.ics' }}
