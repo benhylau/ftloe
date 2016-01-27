@@ -38,12 +38,12 @@ Our criteria so far has been to support independent, passionate women from devel
 We have created the [for the Love of Ev Kiva Team][for the Love of Ev Kiva Team]—when you make a loan through Kiva, you can designate the loan to the team.  It is simply a way to track our collective impact and an organized way to dedicate our funds to the same cause. It does not in anyway whatsoever impact the details of your individual loan.
 
 > Have an extra $25 to lend?
-> [Join our ftloe Kiva Team][Join our ftloe Kiva Team]
+> [Join our ftLoE Kiva Team][Join our ftLoE Kiva Team]
 
 [Kiva platform]: http://www.kiva.org
 [ftLoE as a lender]: http://www.kiva.org/lender/fortheloveofev
 [browse through the stories]: http://www.kiva.org/lend
 [for the Love of Ev Kiva Team]: https://www.kiva.org/team/ftloe
-[Join our ftloe Kiva Team]: https://www.kiva.org/team/ftloe
+[Join our ftLoE Kiva Team]: https://www.kiva.org/team/ftloe
 
 *by June*
