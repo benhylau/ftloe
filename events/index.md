@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events
+title: Event Announcements
 excerpt: "Events organized by for the Love of Ev."
 search_omit: true
 ---
