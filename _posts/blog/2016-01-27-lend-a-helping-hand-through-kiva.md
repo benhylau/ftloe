@@ -17,7 +17,7 @@ We are very grateful to have received monetary contributions from ftLoE's suppor
 
 <iframe src="https://player.vimeo.com/video/16991128" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-From the perspective of [ftLoE as a lender][ftLoE as a lender], we are issuing small-amount loans to many people across the world based on their stories, at no interest at all. The loans will be repaid at the end of the repayment period, probably with some losses due to defaults, then we will recycle the money to fund new Kiva projects. Here is the story of one woman that we issued a loan to:
+From the perspective of [ftLoE as a lender][ftLoE as a lender], we are issuing small-amount loans to many people across the world based on their stories, at no interest at all. The loans will be repaid throughout the repayment period, probably with some losses due to defaults, then we will recycle the money to fund new Kiva projects. Here is the story of one woman that we issued a loan to:
 
 > Every day, with a smile drawn on her face, Maria leaves to attend to her bakery, a business that has brought her prosperity. She is a single mother, head of the family who finds the faith and strength to progress in her two children. She always perseveres to reach her goals and is very committed and responsible with her economic obligations. This organization allows her to cover her expenses and provide education and a home for her children.
 >
@@ -25,7 +25,7 @@ From the perspective of [ftLoE as a lender][ftLoE as a lender], we are issuing s
 
 We encourage you to think of a Kiva microloan as a way to lend a helping hand.
 
-Our criteria so far has been to support independent, passionate women from developing countries who work hard to improve their local business so they can better provide for their families. In 2015, we made 13 loans totalling $2,000 (USD) across 9 countries and 6 sectors:
+Our criteria so far has been to support independent, passionate women from developing countries who work hard to improve their local businesses so they can better provide for their families. In 2015, we made 10 loans totalling $2,000 (USD) across 9 countries and 6 sectors. Some of the funds have already been repaid and we have begun funding new projects since :)
 
 <figure class="half">
 	<img src="/images/2016-01-27-lend-a-helping-hand-through-kiva-0.png" alt="image">
