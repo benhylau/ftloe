@@ -3,6 +3,7 @@ layout: post
 title: "Christmas Shoebox 2015"
 modified:
 categories: events
+share: true
 comments: true
 excerpt:
 tags: []
