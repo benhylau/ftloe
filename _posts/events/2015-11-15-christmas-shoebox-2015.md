@@ -5,7 +5,7 @@ modified:
 categories: events
 share: true
 comments: true
-excerpt:
+excerpt: false
 tags: []
 image:
   feature:
