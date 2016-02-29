@@ -3,7 +3,6 @@ layout: post
 title: "My Part-Time Vegan Journey + Tips & Resources"
 modified:
 categories: blog
-share: true
 comments: true
 excerpt:
 tags: []

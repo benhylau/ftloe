@@ -3,7 +3,6 @@ layout: post
 title: "Journey to Conquer Cancer – 5K Run/Walk"
 modified:
 categories: blog
-share: true
 comments: true
 excerpt:
 tags: []

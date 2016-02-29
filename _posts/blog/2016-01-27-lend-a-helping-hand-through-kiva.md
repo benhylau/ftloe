@@ -3,7 +3,6 @@ layout: post
 title: "Lend a Helping Hand through Kiva"
 modified:
 categories: blog
-share: true
 comments: true
 excerpt:
 tags: []
