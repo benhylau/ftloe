@@ -5,7 +5,7 @@ modified:
 categories: blog
 share: true
 comments: true
-excerpt: false
+excerpt:
 tags: []
 image:
   feature:
