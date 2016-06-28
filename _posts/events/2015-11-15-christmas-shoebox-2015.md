@@ -49,7 +49,7 @@ Please respond on the Facebook event or in the comment section below, with the n
 
 PLEASE PASS THE EVENT ALONG! Thank you :)
 
-Ev's Girls (June, Lily, Rachel & Rhoda)
+*Ev's Girls (June, Lily, Rachel & Rhoda)*
 
 [Boxin’ Up Some Love]: {% post_url /blog/2015-09-28-boxin-up-some-love %}
 [Samaritan’s Purse]: http://www.samaritanspurse.ca/rss/operation-christmas-child/get-involved/operation-christmas-child-packing-your-shoe-boxes.aspx

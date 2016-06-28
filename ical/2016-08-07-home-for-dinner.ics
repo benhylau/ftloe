@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//for the Love of Ev//Events//EN
+NAME:for the Love of Ev
+X-WR-CALNAME:for the Love of Ev
+TIMEZONE-ID:America/Toronto
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:sdso@fortheloveofev.org
+SEQUENCE:0
+DTSTAMP:20160628T054844Z
+DTSTART:20160807T190000Z
+DTEND:20160808T010000Z
+SUMMARY:Home for Dinner
+LOCATION:Ronald McDonald House Charities @ 240 McCaul Street\, Toronto\, ON M5T 1W5
+URL;VALUE=URI:http://www.fortheloveofev.org/events/home-for-dinner/
+END:VEVENT
+END:VCALENDAR
