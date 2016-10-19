@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//for the Love of Ev//Events//EN
+NAME:for the Love of Ev
+X-WR-CALNAME:for the Love of Ev
+TIMEZONE-ID:America/Toronto
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:fszx@fortheloveofev.org
+SEQUENCE:0
+DTSTAMP:20161019T162914Z
+DTSTART:20161119T180000Z
+DTEND:20161119T210000Z
+SUMMARY:Christmas Shoebox 2016
+LOCATION:Condo Party Room in Building A\, 376 Highway 7 East\, Markham\, ON
+URL;VALUE=URI:http://www.fortheloveofev.org/events/christmas-shoebox-2016/
+END:VEVENT
+END:VCALENDAR

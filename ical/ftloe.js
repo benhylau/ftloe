@@ -11,12 +11,12 @@ var ical = require('ical-generator'),
     });
 
 cal.createEvent({
-    start: new Date('Aug 07 2016 19:00:00 UTC'),
-    end: new Date('Aug 08 2016 01:00:00 UTC'),
-    summary: 'Home for Dinner',
-    location: 'Ronald McDonald House Charities @ 240 McCaul Street, Toronto, ON M5T 1W5',
-    url: 'http://www.fortheloveofev.org/events/home-for-dinner/'
+    start: new Date('Nov 19 2016 18:00:00 UTC'),
+    end: new Date('Nov 19 2016 21:00:00 UTC'),
+    summary: 'Christmas Shoebox 2016',
+    location: 'Condo Party Room in Building A, 376 Highway 7 East, Markham, ON',
+    url: 'http://www.fortheloveofev.org/events/christmas-shoebox-2016/'
 });
 
-cal.save("2016-08-07-home-for-dinner.ics");
+cal.save("2016-11-19-christmas-shoebox-2016.ics");
 
