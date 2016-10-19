@@ -9,7 +9,7 @@ excerpt: ""
 tags: []
 image:
   feature: 2016-08-07-home-for-dinner-0.jpg
-date: 2016-06-28
+date: 2016-08-07
 ---
 
 Summer is here and we are ready to announce our next ftLoE event! This time we have selected to help at the [Ronald McDonald House Charities (RMHC)][Ronald McDonald House Charities (RMHC)] – [Home For Dinner program][Home For Dinner program]. Their mandate is to provide a *home away from home* for families of seriously ill children to heal better together. We believe that this event definitely aligns with what we believe in.
