@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//for the Love of Ev//Events//EN
+NAME:for the Love of Ev
+X-WR-CALNAME:for the Love of Ev
+TIMEZONE-ID:America/Toronto
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:trey@fortheloveofev.org
+SEQUENCE:0
+DTSTAMP:20170827T213210Z
+DTSTART:20170930T140000Z
+DTEND:20170930T160000Z
+SUMMARY:Plant a Kiss\, Plant a Tree
+LOCATION:Cedarbrook Park\, 91 Eastpark Blvd\, Scarborough\, ON
+URL;VALUE=URI:http://www.fortheloveofev.org/events/plant-a-kiss-plant-a-tree/
+END:VEVENT
+END:VCALENDAR
