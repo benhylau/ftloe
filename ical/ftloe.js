@@ -11,12 +11,12 @@ var ical = require('ical-generator'),
     });
 
 cal.createEvent({
-    start: new Date('Sep 30 2017 14:00:00 UTC'),
-    end: new Date('Sep 30 2017 16:00:00 UTC'),
-    summary: 'Plant a Kiss, Plant a Tree',
-    location: 'Cedarbrook Park, 91 Eastpark Blvd, Scarborough, ON',
-    url: 'http://www.fortheloveofev.org/events/plant-a-kiss-plant-a-tree/'
+    start: new Date('Nov 18 2017 18:00:00 UTC'),
+    end: new Date('Nov 18 2017 21:00:00 UTC'),
+    summary: 'Christmas Shoebox 2017',
+    location: 'Condo Party Room in Building A, 376 Highway 7 East, Markham, ON',
+    url: 'http://www.fortheloveofev.org/events/christmas-shoebox-2017/'
 });
 
-cal.save("2017-09-30-plant-a-kiss-plant-a-tree.ics");
+cal.save("2017-11-18-christmas-shoebox-2017.ics");
 
